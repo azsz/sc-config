@@ -1,2 +1,3 @@
-config:
-  info:"main branch,spc-config/config-dev.yml version=1"
+server:
+  port: "1"
+  
